@@ -1,0 +1,5 @@
+# make a virutal env
+# virtualenv env
+# python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+# jupyter notebook
+# jupyter notebooj --no-browser

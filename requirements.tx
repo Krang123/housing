@@ -3,3 +3,4 @@
 # python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 # jupyter notebook
 # jupyter notebooj --no-browser
+get the dataset here  hands-on-machine-learning-scikit-learn-tensorflow-oreilly-geron/datasets/housing/housing.csv 
